@@ -119,7 +119,7 @@ It is highly recommended to run this project in a virtual environment.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/clipmaster.git
+    git clone https://github.com/fralapo/clipmaster.git
     cd clipmaster
     ```
 
